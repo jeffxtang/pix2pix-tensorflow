@@ -1,3 +1,6 @@
+**Update March 5, 2018: added a new script pix2pix_runinference.py to add image input placeholder and save new checkpoint  - so the model frozen with the new checkpoint can be used in the iOS and Android apps for my book [Intelligent Mobile Projects with TensorFlow](https://www.packtpub.com/application-development/intelligent-mobile-projects-tensorflow). See [my blog](https://jeffxtang.github.io/deep/learning,/cnn,/rnn,/lstm,/image/classification,/object/detection,/neural/style/transfer,/tensorflow,/captioning,/audio/recognition,/drawing/reinforcement/learning/2018/02/15/building-mobile-ai-apps-with-tensorflow.html) or [Amazon](https://www.amazon.com/Intelligent-Mobile-Projects-TensorFlow-wide-ranging/dp/1788834542) for more info.**
+
+
 # pix2pix-tensorflow
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
